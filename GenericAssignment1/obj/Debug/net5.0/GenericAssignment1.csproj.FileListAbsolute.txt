@@ -1,0 +1,16 @@
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\bin\Debug\net5.0\GenericAssignment1.exe
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\bin\Debug\net5.0\GenericAssignment1.deps.json
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\bin\Debug\net5.0\GenericAssignment1.runtimeconfig.json
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\bin\Debug\net5.0\GenericAssignment1.runtimeconfig.dev.json
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\bin\Debug\net5.0\GenericAssignment1.dll
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\bin\Debug\net5.0\ref\GenericAssignment1.dll
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\bin\Debug\net5.0\GenericAssignment1.pdb
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\GenericAssignment1.csproj.AssemblyReference.cache
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\GenericAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\GenericAssignment1.AssemblyInfoInputs.cache
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\GenericAssignment1.AssemblyInfo.cs
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\GenericAssignment1.csproj.CoreCompileInputs.cache
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\GenericAssignment1.dll
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\ref\GenericAssignment1.dll
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\GenericAssignment1.pdb
+D:\Promact Assignment\GenericAssignment1\GenericAssignment1\obj\Debug\net5.0\GenericAssignment1.genruntimeconfig.cache
